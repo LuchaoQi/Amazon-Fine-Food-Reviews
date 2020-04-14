@@ -1,0 +1,7 @@
+**/.idea
+**/.ipynb_checkpoints
+.vs
+data/
+**/data**
+Reviews.csv
+
